@@ -4,7 +4,7 @@ Tags: elementor, elementor addon, elementor widget, elementor template, header f
 Requires at least: 5.0  
 Tested up to: 6.8
 Requires PHP: 7.4  
-Stable tag: 2.5.0
+Stable tag: 2.5.1
 License: GPLv2 or later  
 License URI: https://www.gnu.org/licenses/gpl-2.0.html  
 
@@ -23,9 +23,9 @@ These features are built to save time and offer more design freedom—not just t
 
 Whether you're just getting started with WordPress or managing multiple client sites, UAE - Elementor Addons gives you the **control**, **performance**, and **reliability** to design beautiful, high-converting websites efficiently.
 
-https://www.youtube.com/watch?v=6xH5n6YYNJE
+[Try the live demo of Ultimate Addons for Elementor](https://app.zipwp.com/blueprint/ultimate-addons-for-elementor-demo-fas)
 
-[Try the live demo of Ultimate Addons for Elementor](https://zipwp.org/plugins/header-footer-elementor/)
+https://www.youtube.com/watch?v=6xH5n6YYNJE
 
 ## Why Choose UAE Elementor Addon ##
 
@@ -299,6 +299,9 @@ You can report the issue through our [Bug Bounty Program](https://brainstormforc
 ---
 
 == Changelog ==
+= 2.5.1 =
+- Improvement: Updated required packages to the latest stable versions for improved compatibility and security.
+
 = 2.5.0 = 
 - New: Added Basic Blog Posts Widget – Showcase blog posts or any custom post type in a fully customizable, responsive grid layout.
 - Improvement: Compatibility with latest Elementor and Elementor Pro 3.32 version.
