@@ -4,7 +4,7 @@ Tags: elementor, elementor addons, elementor widgets, elementor template, header
 Requires at least: 5.0  
 Tested up to: 6.9
 Requires PHP: 7.4  
-Stable tag: 2.8.0
+Stable tag: 2.8.1
 License: GPLv2 or later  
 License URI: https://www.gnu.org/licenses/gpl-2.0.html  
 
@@ -310,6 +310,9 @@ You can report the issue through our [Bug Bounty Program](https://brainstormforc
 ---
 
 == Changelog ==
+= 2.8.1 =
+- Improvement: Package dependencies updated for better security.
+
 = 2.8.0 =
 - Added: UAE Duplicator extension that allows duplicating pages, posts, headers, footers, and custom blocks with ease.
 
